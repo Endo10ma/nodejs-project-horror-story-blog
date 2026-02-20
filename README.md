@@ -6,7 +6,7 @@ This project is a **Node.js-powered** full-stack web application that serves as 
 
 ## Live Demo
 
-**[Visit the Live Site Here](https://your-deployment-url.com)**
+**[Visit the Live Site Here](https://nodejs-project-horror-story-blog.onrender.com/)**
 
 ---
 
